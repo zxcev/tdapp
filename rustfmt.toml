@@ -1,0 +1,6 @@
+merge_imports = true
+trailing_semicolon = true
+reorder_imports = true
+reorder_impl_items = true
+reorder_modules = true
+report_todo = "Unnumbered"
